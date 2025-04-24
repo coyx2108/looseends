@@ -32,7 +32,7 @@ function MainContent() {
         backgroundColor: '#9E182B'
       }}>
         <img
-          src="/header.png"
+          src="/looseends/header.png"
           alt="Reflection"
           style={{ width: '100%', display: 'block' }}
         />
@@ -86,7 +86,7 @@ function MainContent() {
             alignItems: 'flex-start'
             }}>
             <img
-                src="/self.jpg"
+                src="/looseends/self.png"
                 alt="self"
                 style={{
                 width: '272px',
@@ -167,7 +167,7 @@ function MainContent() {
             </div>
             <div style={{ flexShrink: 0 }}>
                 <img
-                src="/shes-out-of-my-league.png"
+                src="/looseends/shes-out-of-my-league.png"
                 alt="She’s Out Of My League (2010)"
                 style={{ width: '360px', height: 'auto', borderRadius: '10px' }}
                 />
@@ -216,7 +216,7 @@ function MainContent() {
             }}>
                 The 5 Types of Unrequited Love
             </h2>
-            <img src="/nst2061-loose-ends.png" alt="Decorative" style={{ width: '80px', height: 'auto' }} />
+            <img src='/looseends/nst2061-loose-ends.png' alt="Decorative" style={{ width: '80px', height: 'auto' }} />
         </div>
 
         <div style={{
@@ -241,7 +241,7 @@ function MainContent() {
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
         <div style={{ flexShrink: 0 }}>
                 <img
-                src="/notting-hill.png"
+                src='/looseends/notting-hill.png'
                 alt="Notting Hill (1999)"
                 style={{ width: '360px', height: 'auto', borderRadius: '10px' }}
                 />
@@ -265,7 +265,7 @@ function MainContent() {
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
         <div style={{ flexShrink: 0 }}>
                 <img
-                src="/to-all-the-boys-ive-loved-before.png"
+                src='/looseends/to-all-the-boys-ive-loved-before.png'
                 alt="To All The Boys I've Loved Before (2018)"
                 style={{ width: '360px', height: 'auto', borderRadius: '10px' }}
                 />
@@ -289,7 +289,7 @@ function MainContent() {
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
         <div style={{ flexShrink: 0 }}>
                 <img
-                src="/500-days-of-summer.png"
+                src='/looseends/500-days-of-summer.png'
                 alt="500 Days of Summer (2009)"
                 style={{ width: '360px', height: 'auto', borderRadius: '10px' }}
                 />
@@ -313,7 +313,7 @@ function MainContent() {
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
         <div style={{ flexShrink: 0 }}>
                 <img
-                src="/eternal-sunshine.png"
+                src='/looseends/eternal-sunshine.png'
                 alt="Eternal Sunshine of the Spotless Mind (2004)"
                 style={{ width: '360px', height: 'auto', borderRadius: '10px' }}
                 />
@@ -338,7 +338,7 @@ function MainContent() {
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
         <div style={{ flexShrink: 0 }}>
                 <img
-                src="/blue-valentine.png"
+                src='/looseends/blue-valentine.png'
                 alt="Blue Valentine (2010)"
                 style={{ width: '360px', height: 'auto', borderRadius: '10px' }}
                 />
