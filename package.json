@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://coyx2108.github.io/looseends",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
