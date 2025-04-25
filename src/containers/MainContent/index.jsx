@@ -101,6 +101,7 @@ function MainContent() {
                 <p>
                 This reflection is written in a blog-meets-academia format, using my own story as a girl who simply couldn’t get a guy to like her back.
                 Using academia, I try to navigate the uncertainties of unrequited love; to finally try to understand the emotions I couldn’t make sense of on my own.
+                There are many academic definitions for unrequited love (UL), but they all orbit around the same fact: 
                 </p>
 
                 <p style={{
@@ -161,7 +162,7 @@ function MainContent() {
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem', alignItems: 'flex-start' }}>
             <div style={{ flex: 1, minWidth: '300px' }}>
                 <p>
-                “Falling upwards”, that is, falling for someone out of your league (Hu et al., 2022). 
+                1. “Falling upwards”, that is, falling for someone out of your league (Hu et al., 2022). 
                 We have seen this in movies – nerdy protagonist falls for gorgeous love interest, and with the power of plot armour, guy gets girl (or vice versa) and they live happily ever after.
                 </p>
             </div>
@@ -184,14 +185,14 @@ function MainContent() {
 
             {/* 2. Falling for a Friend */}
             <p>
-                Falling for a friend – something I know all too well. 
+                2. Falling for a friend – something I know all too well. 
                 Friendship is already built upon closeness and intimacy, which are also central components of romantic relationships (Hu et al., 2022). 
                 It’s easy for friends to fall for one another – Hill et al. (1997) found that men reported more episodes of unrequited love during the ages of 16 to 20 compared to women, suggesting potential gender differences in experiencing UL during adolescence. 
             </p>
 
             {/* 3. Unequal Love */}
             <p>
-                Unequal love in relationships, whereby one party may feel that they are “giving more” in a relationship than the other party (Hu et al., 2022).
+                3. Unequal love in relationships, whereby one party may feel that they are “giving more” in a relationship than the other party (Hu et al., 2022).
             </p>
 
             {/* Final Paragraph */}
@@ -256,7 +257,9 @@ function MainContent() {
             </div>
             <div style={{ flex: 1, minWidth: '300px' }}>
             <p>
-            1. Crushing on someone unavailable, typically someone of higher social status like a popstar. In extreme cases, obsession may result in a rare mental disorder called erotomania, whereby a person is convinced that the object of their desires is deeply in love with them, even if they have never interacted before (Reid, 1989). With erotomania, an individual may feel intense love and intense hatred concurrently towards the love object (Reid, 1989). A parasocial relationship gone extremely wrong.
+            1. Crushing on someone unavailable, typically someone of higher social status like a popstar. 
+            In extreme cases, obsession may result in a rare mental disorder called erotomania, whereby a person is convinced that the object of their desires is deeply in love with them, even if they have never interacted before (Reid, 1989). 
+            With erotomania, an individual may feel intense love and intense hatred concurrently towards the love object (Reid, 1989) - a parasocial relationship gone extremely wrong.
             </p>
         </div>
         </div>
@@ -280,7 +283,9 @@ function MainContent() {
             </div>
             <div style={{ flex: 1, minWidth: '300px' }}>
             <p>
-            2. Crushing on someone nearby without initiating a romantic relationship. The type of puppy-love, crush situation most of us would be acquainted with. The classic UL situation whereby you admire them from a distance and potentially create a version of them in your head. This form of UL develops through one’s imagined interactions with their love objects based on the construal of their behaviours, pushing an ideal that isn’t there onto them (Hu et al., 2022).
+            2. Crushing on someone nearby without initiating a romantic relationship; the type of puppy-love, crush situation most of us would be acquainted with. 
+            The classic UL situation whereby you admire them from a distance and potentially create a version of them in your head that just doesn’t exist. 
+            This form of UL develops through one’s imagined interactions with their love objects based on the construal of their behaviours, pushing an ideal that isn’t there onto them (Hu et al., 2022).
             </p>
         </div>
         </div>
@@ -304,7 +309,10 @@ function MainContent() {
             </div>
             <div style={{ flex: 1, minWidth: '300px' }}>
             <p>
-            3. If one is feeling braver, they may make their pursuit for the other person more obvious but fail to make the other person reciprocate. This kind of UL can result in a situation whereby both parties lose out. The person with the crush may feel resentment for the other party for not reciprocating their feelings (Schweiger, 2024) while the rejector may feel an overwhelming sense of guilt due to the scriptlessness of the situation (Baumeister et al., 1993). In a situation whereby both parties are not responsible for how the other party feels, it results in a directionless and confusing end.
+            3. If one is feeling braver, they may make their pursuit for the other person more obvious but fail to make the other person reciprocate. 
+            This kind of UL can result in a situation whereby both parties lose out. 
+            The person with the crush may feel resentment for the other party for not reciprocating their feelings (Schweiger, 2024) while the rejector may feel an overwhelming sense of guilt due to the scriptlessness of the situation i.e., not knowing how to let someone down gently (Baumeister et al., 1993). 
+            In a situation whereby both parties are not responsible for how the other party feels, it results in a directionless and confusing end.
             </p>
         </div>
         </div>
@@ -328,8 +336,10 @@ function MainContent() {
             </div>
             <div style={{ flex: 1, minWidth: '300px' }}>
             <p>
-            4. Longing for a past lover. A breakup is often not mutual and often happens after a period of interdependence, including familiarity with the love object that makes it difficult for a clean cut (Davis et al., 2000). Fisher introduces a concept called “frustration attraction”, whereby such social rejection may produce more passion (2004).
-            Bringle et al. (2013) reported that the emotional intensity of unrequited love varies by type. Longing for a past lover had a mean intensity score of 6.12 on a 7-point scale, closely approaching the 6.36 mean for mutual love. 
+            4. Longing for a past lover. A breakup is often not mutual and often happens after a period of interdependence, including familiarity with the love object that makes it difficult for a clean cut (Davis et al., 2000). 
+            Fisher introduces a concept called “frustration attraction”, whereby such social rejection may produce more passion (2004).
+            Bringle et al. (2013) reported that the emotional intensity of unrequited love varies by type: longing for a past lover had a mean intensity score of 6.12 on a 7-point scale, closely approaching the 6.36 mean for mutual love. 
+            A break up thus feels heavily emotional, as though one loses a piece of themselves.
             </p>
         </div>
         </div>
@@ -353,7 +363,11 @@ function MainContent() {
             </div>
             <div style={{ flex: 1, minWidth: '300px' }}>
             <p>
-            5. Unequal love in a relationship. Objectively the most painful of them all. The idea that “you’re supposed to love me, but why don’t I feel loved?” Such UL creates a dissatisfaction due to opposing expectations between the two lovers (Bringle et al., 2013). There may be perceived power at play, whereby one partner believes that they have more control over the other, essentially their subjective perception of their ability to shape decisions and outcomes within the relationship (Hall et al., 2019).
+            5. Unequal love in a relationship. 
+            Objectively the most painful of them all. 
+            The idea that “you’re supposed to love me, but why don’t I feel loved?” 
+            Such UL creates a dissatisfaction due to opposing expectations between the two lovers (Bringle et al., 2013). 
+            There may be perceived power at play, whereby one partner believes that they have more control over the other, essentially their subjective perception of their ability to shape decisions and outcomes within the relationship (Hall et al., 2019).
             </p>
         </div>
         </div>
@@ -362,7 +376,10 @@ function MainContent() {
         <div>
         <p>
         A study by Saleem and Komal (2022) found that higher interpersonal dependency and negative self-disclosure were associated with more intense psychosocial reactions to unrequited love among university students.
-            In the quiet after it all ended – or never began, my phone missing his text notifications – I was left with the gnawing what ifs. The unfounded “I hate you”s. The helpless “why couldn’t it have been me?” Schweiger (2024) reminds us that the person we love — or think we love — can’t be held morally responsible for not feeling the same. But that doesn't mean the emotional chaos they leave in their wake isn't real. It was empty and confusing, but I had to move on.
+        In the quiet after it all ended – or never began – I was left with the gnawing what ifs. The unfounded “I hate you”s. The helpless “why couldn’t it have been me?” 
+        Schweiger (2024) reminds us that the person we love — or think we love — can’t be held morally responsible for not feeling the same. 
+        But that doesn't mean the emotional chaos they leave in their wake isn't real. 
+        It was empty and confusing, but I had to move on.
         </p>
         </div>
 
@@ -386,7 +403,11 @@ function MainContent() {
         }}>
             <p>So, I wrote.</p>
             <p>
-            Not to him — he didn’t need to hear it. But to myself, or maybe to the version of him I built in my head. An ideal that I dreamt of and was left unrequited (Hu et al., 2022). Letter writing became a way to tie up the loose ends and remind us who we were before the entire ordeal. It helped me step out of the haze and reclaim my story — not as someone who was rejected, but as someone who learned. Someone who loved, even when it hurt.
+            Not to him — he didn’t need to hear it. 
+            But to myself, or maybe to the version of him I built in my head. 
+            An ideal that I dreamt of and was left unrequited (Hu et al., 2022). 
+            Letter writing became a way to tie up the loose ends and remind me who I was before the entire ordeal. It helped me step out of the haze and reclaim my story — not as someone who was rejected, but as someone who learned. 
+            Someone who loved, even when it hurt.
             </p>
             <p>
             Tadros et al. (2024) found that writing unsent letters can help manage confusion and resentment, reframing the narrative from helplessness to healing. It gave me clarity. It gave me closure. And in a way, it let me say goodbye to the version of myself who kept waiting for a response that would never come.
