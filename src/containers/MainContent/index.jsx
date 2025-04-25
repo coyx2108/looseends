@@ -1,5 +1,5 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 
 function MainContent() {
     const navigate = useNavigate();
@@ -86,7 +86,7 @@ function MainContent() {
             alignItems: 'flex-start'
             }}>
             <img
-                src="/looseends/self.png"
+                src="/looseends/self.jpg"
                 alt="self"
                 style={{
                 width: '272px',
@@ -424,7 +424,7 @@ function MainContent() {
         </button>
 
         {/* View References Link */}
-        <a href="/references" style={{
+        <Link to="/references" style={{
             color: '#9E182B',
             fontSize: '0.875rem',
             textDecoration: 'underline',
@@ -432,7 +432,7 @@ function MainContent() {
             fontWeight: '400'
         }}>
             View References
-        </a>
+        </Link>
         </div>
 
         </div>

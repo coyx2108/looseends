@@ -11,7 +11,7 @@ function NavBar() {
         }}>
             <img 
                 style={{ width: 100, height: 'auto', marginLeft: '20px' }} 
-                src="/nst2061-loose-ends.png" 
+                src="/looseends/nst2061-loose-ends.png" 
                 alt="Logo" 
             />
         </div>
